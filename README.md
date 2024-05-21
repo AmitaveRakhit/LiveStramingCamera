@@ -32,3 +32,5 @@ Known Issues</br>
 --------------------
 if you face any issue while installing library like python3-opencv or flask,</br>
 then run the "sudo apt-get update --fix-missing" command first.
+
+https://www.youtube.com/watch?v=i9mJzdLYsVo&t=291s&ab_channel=ASTech-Workshop
